@@ -1,0 +1,4 @@
+AddDefaultCharset utf-8
+RewriteEngine On
+RewriteCond %{REQUEST_URI} !^.*\.(jpg|css|js|gif|png)$ [NC]
+RewriteRule (.*) public/$1

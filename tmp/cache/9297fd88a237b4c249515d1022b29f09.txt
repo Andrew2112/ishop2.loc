@@ -1,0 +1,41 @@
+a:2:{s:4:"data";s:1092:"<li>
+    <a href="category/samsung">Samsung</a>
+            <ul>
+            <li>
+    <a href="category/s-seria">S-серия</a>
+            <ul>
+            <li>
+    <a href="category/s8s8plus">S8 S8+</a>
+    </li>        </ul>
+    </li><li>
+    <a href="category/a-series">A-серия</a>
+    </li><li>
+    <a href="category/j-series">J-серия</a>
+    </li>        </ul>
+    </li><li>
+    <a href="category/xiaomi">Xiaomi</a>
+            <ul>
+            <li>
+    <a href="category/mipro">Mi PRO</a>
+    </li><li>
+    <a href="category/redmi">Redmi</a>
+    </li><li>
+    <a href="category/pocophon">POCOPHON</a>
+    </li>        </ul>
+    </li><li>
+    <a href="category/huawei">Huawei</a>
+            <ul>
+            <li>
+    <a href="category/p-20">P-20</a>
+    </li><li>
+    <a href="category/honor">Honor</a>
+    </li><li>
+    <a href="category/nova">Nova</a>
+    </li>        </ul>
+    </li><li>
+    <a href="category/meizu">Meizu</a>
+            <ul>
+            <li>
+    <a href="category/epos">Epos</a>
+    </li>        </ul>
+    </li>";s:8:"end_time";i:1594894231;}
